@@ -1,0 +1,4 @@
+-- List the employees those who joined in company before 15th of the month. 
+-- SELECT *
+--FROM employees
+--WHERE to_char(hire_date,'DD') < '15';
